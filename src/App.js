@@ -1,10 +1,11 @@
-import './App.css';
+import "./App.css";
+import Header from "./Components/header";
 
 function App() {
   return (
-   <div className='bg-red-300'> 
-saaa
-   </div>
+    <div>
+      <Header />
+    </div>
   );
 }
 
